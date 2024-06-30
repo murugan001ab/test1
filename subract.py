@@ -1,3 +1,3 @@
-a,b=10,20
-c=a-b
-print(c)
+a=10
+b=20
+print(a+b)
